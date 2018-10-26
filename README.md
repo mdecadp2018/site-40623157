@@ -6,6 +6,4 @@ http://mdecourse.github.io/2018fall/
 
 網誌:https://mdecadp2018.github.io/site-40623157/content/index.html
 
-網站: https://mdecadp2018.github.io/site-40623157/content/index.html
-
 投影片:https://mdecadp2018.github.io/site-40623157/reveal/index.html#/
