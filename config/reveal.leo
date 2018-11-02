@@ -21,22 +21,46 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20181102114026.1"><vh>快捷鍵</vh>
+<v t="leo.20181102114026.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
+<v t="leo.20181102111639.1"><vh>各式內容引用範例</vh>
+<v t="leo.20181102111639.2"><vh>導入數學符號與方程式</vh>
+<v t="leo.20181102111639.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
-<v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181102111639.4"><vh>導入縮排程式碼</vh>
+<v t="leo.20181102111639.5"><vh>引用程式碼</vh></v>
 </v>
+<v t="leo.20181102111639.6"><vh>導入影片</vh>
+<v t="leo.20181102111639.7"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20181102171229.1"><vh>快捷鍵</vh>
+<v t="leo.20181102171229.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181102114522.1"><vh>快捷鍵</vh>
+<v t="leo.20181102114522.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181102114652.1"><vh>快捷鍵</vh>
+<v t="leo.20181102114652.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181102114655.1"><vh>快捷鍵</vh>
+<v t="leo.20181102114655.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181102114658.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181102114658.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181102114700.1"><vh>快捷鍵</vh>
+<v t="leo.20181102114700.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181102114701.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181102114701.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
 </v>
@@ -146,93 +170,20 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 第一週
+<t tx="leo.20180827201621.12"># 投影片快捷鍵
 
-*  上課注意事項:
-每週上課記得帶隨身碟耳機筆記本
-* 登入Github帳號後連結至https://classroom.github.com/assignment-invitations
-領取個人作業
-* 在Github帳號下，新增一個new respository，取名為個人學號.github.io
-* 將自己新增的倉儲與老師的倉儲 clone 下來
-* CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據
+*  利用箭頭上下前後換頁
 
-</t>
-<t tx="leo.20180827201621.13">&lt;section&gt;
-@others
-&lt;/section&gt;
+*  按 f 鍵進入全螢幕模式(full screen)
 
-</t>
-<t tx="leo.20180827201621.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+*  按 s 鍵可以顯示投影片筆記(show)
 
+*  按 o 鍵可以切換單張或全域檢視(overview)
 
+*  按 b 鍵或 .鍵可以切換螢幕黑屏(black)
 
-						
-</t>
-<t tx="leo.20180827201621.15"># 數學符號與方程式
+* 按 Esc 可以退出全螢幕或全域檢視(Esccape)
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.19">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
@@ -327,6 +278,226 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181102111639.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102111639.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181102111639.3"># 第二週
+
+*  上課內容:
+ 將倉儲的branches改為gh-pages
+ 
+* 申請Onshape帳號後開始練習
+
+* 如何管理 CMSimfly 靜態網頁, 如何編輯 reveal 簡報內容, 如何建立 pelican 網誌
+
+*ShareX的錄影跟截圖設定
+</t>
+<t tx="leo.20181102111639.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181102111639.5">## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+@language python
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
+
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
+</t>
+<t tx="leo.20181102111639.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102111639.7">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181102114026.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102114026.2"># 第一週
+* 每週上課記得要帶耳機 筆記本 隨身碟
+
+*  登入自己的Github帳號後建立一個倉儲學號學號.github.io
+
+*  利用git clone 將https://github.com/mdecourse/2018fall clone下來
+
+* CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.
+
+</t>
+<t tx="leo.20181102114522.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102114522.2"># 第四週
+* 簡介"設計意圖" (design intent)
+
+* 設定尺寸 (dimensions) 與約束 (constraints)
+
+* 草圖繪製練習
+
+* 運用與建立平面 (planes)
+
+* 學習Extrude擠出、Revolve迴轉、Sweep掃掠、　Loft混成四個基本特徵
+
+</t>
+<t tx="leo.20181102114652.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102114652.2"># 第五週
+* 學會Reveal、Pelican、Blog的編輯方法及近遠端轉換。
+
+* 在blog部分使用leo來進行編譯、新增章節及內容等。
+
+* 簡報部分學會修改簡報順序與排版、字體設置。
+* Onshape 課程使用說明及利用手邊的英譯字典來查詢部會的單字並記錄在Notebook上
+
+
+</t>
+<t tx="leo.20181102114655.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102114655.2"># 第六週
+
+* 檢查每周是否更新自己的網誌 網站 投影片
+
+* 倉儲要定時更新
+
+* 將個人倉儲中的flaskapp.py更新至最新版本
+
+
+
+</t>
+<t tx="leo.20181102114658.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102114658.2"># 第七週
+
+* github遠端故障
+
+* 原因: 具體來講是因為網路故障且儲存的倉儲位置也連帶故障,導致多數人進行遠端傳送,有些許的障礙出現,但近端扔有更動.
+
+* 解決: 因為避免相同的衝突再次發生,所以有了因應的措施,必須先想出可應對的方法
+
+</t>
+<t tx="leo.20181102114700.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102114700.2"># 第八週
+* 
+
+
+</t>
+<t tx="leo.20181102114701.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102114701.2"># 第九週
+* 很開心終於完成老師交付的作業，更開心的是透過老師這幾週的教導學習到很多之前未學習過的技能。
+
+
+</t>
+<t tx="leo.20181102171229.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102171229.2"># 第三週
+*  Onshape 與一般的繪圖軟體很像 ，能夠在雲端上傳遞給其他人看，並可以在上面繪圖，當沒有繪圖軟體像是Inventor Solidworks 可以使用 ，也可以觀看別人的圖檔。
+* 在https:localhost:8443更改完後,按generate_pages, 將動態分頁轉為靜態分頁，完成後再到https:localhost:8444檢查是否轉換成功
+
+
 </t>
 </tnodes>
 </leo_file>
