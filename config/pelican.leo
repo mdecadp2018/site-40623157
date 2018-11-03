@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="yen.20170108171605.1"><vh>@settings</vh>
+<v t="yen.20170108171605.1" a="E"><vh>@settings</vh>
 <v t="yen.20170108171605.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -31,7 +31,7 @@
 <v t="leo.20170709015940.1"><vh>近端</vh></v>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 </v>
-<v t="yen.20170224232341.1"><vh>編輯 template</vh>
+<v t="yen.20170224232341.1" a="E"><vh>編輯 template</vh>
 <v t="leo.20180115093448.1" a="E"><vh>@path theme/attila/templates</vh>
 <v t="leo.20180715212936.1"><vh>@edit article.html</vh></v>
 <v t="leo.20180115093536.1"><vh>@edit base.html</vh></v>
@@ -53,7 +53,7 @@
 <v t="leo.20170710101854.1"><vh>@edit article.html</vh></v>
 </v>
 </v>
-<v t="leo.20170710015511.1"><vh>編輯 plugin</vh>
+<v t="leo.20170710015511.1" a="E"><vh>編輯 plugin</vh>
 <v t="leo.20170710015523.1" a="E"><vh>@path plugin</vh>
 <v t="leo.20170710015523.2" a="E"><vh>@path tipue_search</vh>
 <v t="leo.20170710015523.3"><vh>@edit tipue_search.py</vh></v>
@@ -68,29 +68,15 @@
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
-<v t="leo.20181103103043.1" a="E"><vh>week1</vh>
-<v t="leo.20181103103043.2"><vh>@edit 20180718.md</vh></v>
-</v>
-<v t="leo.20181103103041.1" a="E"><vh>week2</vh>
-<v t="leo.20181103103041.2"><vh>@edit 20180718.md</vh></v>
-</v>
-<v t="leo.20181103103040.1" a="E"><vh>week3</vh>
-<v t="leo.20181103103040.2"><vh>@edit 20180718.md</vh></v>
-</v>
-<v t="leo.20181103103038.1" a="E"><vh> week4</vh>
-<v t="leo.20181103103038.2"><vh>@edit 20180718.md</vh></v>
-</v>
-<v t="leo.20181103103036.1" a="E"><vh>week5</vh>
-<v t="leo.20181103103036.2"><vh>@edit 20180718.md</vh></v>
-</v>
-<v t="leo.20181103103034.1" a="E"><vh>week6</vh>
-<v t="leo.20181103103034.2"><vh>@edit 20180718.md</vh></v>
-</v>
-<v t="leo.20181103103033.1" a="E"><vh>week7</vh>
-<v t="leo.20181103103033.2"><vh>@edit 20180718.md</vh></v>
-</v>
-<v t="leo.20181103103029.1" a="E"><vh>week8</vh>
-<v t="leo.20181103103029.2"><vh>@edit 20180718.md</vh></v>
+<v t="leo.20181103103043.1" a="E"><vh>2018 Fall CP 課程</vh>
+<v t="leo.20181103103043.2"><vh>@edit 20180914.md</vh></v>
+<v t="leo.20181103103041.2"><vh>@edit 20180921.md</vh></v>
+<v t="leo.20181103103040.2"><vh>@edit 20180928.md</vh></v>
+<v t="leo.20181103103038.2"><vh>@edit 20180718 1005.md</vh></v>
+<v t="leo.20181103103036.2"><vh>@edit 20180718 1012.md</vh></v>
+<v t="leo.20181103103034.2"><vh>@edit 20180718 1019.md</vh></v>
+<v t="leo.20181103103033.2"><vh>@edit 20180718 1026.md</vh></v>
+<v t="leo.20181103103029.2"><vh>@edit 20180718 1102.md</vh></v>
 </v>
 </v>
 </v>
@@ -123,13 +109,6 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
-<t tx="leo.20181103103029.1"></t>
-<t tx="leo.20181103103033.1"></t>
-<t tx="leo.20181103103034.1"></t>
-<t tx="leo.20181103103036.1"></t>
-<t tx="leo.20181103103038.1"></t>
-<t tx="leo.20181103103040.1"></t>
-<t tx="leo.20181103103041.1"></t>
 <t tx="leo.20181103103043.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
