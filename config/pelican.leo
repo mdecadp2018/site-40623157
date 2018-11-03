@@ -69,7 +69,7 @@
 <v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
 <v t="leo.20181103103043.1" a="E"><vh>2018 Fall CP 課程</vh>
-<v t="leo.20181103181530.1"><vh>@edit pages_1.md</vh></v>
+<v t="leo.20181103181530.1"><vh>@edit 20180718.md</vh></v>
 </v>
 </v>
 </v>
